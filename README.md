@@ -11,7 +11,7 @@ It can perform simple operations only once, to perform an operation:
 
 To cause an exception at the Kotlin layer, push the operation buttons without entering any numbers
 
-To cause an expection at the C++ layer, try dividing by 0, example
+To cause an expection at the C++ layer, try dividing by 0, example:
 1. enter 3
 2. hit enter
 3. enter 0
